@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-main
+{
+
+    width: 85%;
+    margin: 25px auto;
+    display: flex;
+    overflow-x: scroll;
+
+}
+
+.imag
+{
+    width: 150px;
+    height: 250px;
+    margin-left: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
